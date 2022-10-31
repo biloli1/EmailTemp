@@ -1,2 +1,2 @@
-# FirstWeb
-My first Website
+# HTML Email Template
+My Email Template
