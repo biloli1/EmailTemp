@@ -1,2 +1,2 @@
 # HTML Email Template
-My Email Template
+Email Template
